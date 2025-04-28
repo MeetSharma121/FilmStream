@@ -32,13 +32,18 @@ FilmStream is a feature-rich Flutter application designed to provide users with 
 
 <p align="center">
   <img alt="Screenshot 2025-04-29 at 2 15 40 AM" src="https://github.com/user-attachments/assets/35271354-7694-47db-a05e-334c61ee2d31"
- alt="Home Screen" width="200"/>
+ alt="Home Screen" width="300" height ="500"/>
   <img  alt="Screenshot 2025-04-29 at 2 15 59 AM" src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
-alt="Movie Details" width="200"/>
+alt="Movie Details" width="300" height ="500"/>
+  <img  alt="Screenshot 2025-04-29 at 3 01 36 AM" src="https://github.com/user-attachments/assets/534c3f28-d541-4cbe-874c-edea5059f563"
+src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
+alt="Movie Details" width="300" height ="500"/>
+</p>
+
+## Installation 📥
   <img  alt="Screenshot 2025-04-29 at 2 17 28 AM" src="https://github.com/user-attachments/assets/78967953-4b66-4fea-97f8-af729021b198" 
 src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
-alt="Movie Details" width="200"/>
-</p>
+alt="Movie Details" width="400" height="500"/>
 
 ## 🛠️ Technologies Used
 
