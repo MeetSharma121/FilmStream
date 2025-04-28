@@ -1,10 +1,10 @@
-# FilmStream 🎥
-## Preview in Website:
-https://cosmic-souffle-f7ec07.netlify.app/
+
+# 🎥 FilmStream
+## 🌐 Preview in Website:
+[FilmStream Live Preview](https://cosmic-souffle-f7ec07.netlify.app/)
 
 <p align="center">
-  <img < alt="Screenshot 2025-04-29 at 2 54 28 AM" src="https://github.com/user-attachments/assets/4bfceb1a-ea32-415b-b14c-5d6635810a53"
-alt="FilmStream Logo" width="350" height="150"/>
+  <img alt="FilmStream Logo" src="https://github.com/user-attachments/assets/4bfceb1a-ea32-415b-b14c-5d6635810a53" width="350" height="150"/>
 </p>
 
 <p align="center">
@@ -16,155 +16,138 @@ alt="FilmStream Logo" width="350" height="150"/>
 
 ## 📱 About
 
-FilmStream is a feature-rich Flutter application designed to provide users with a seamless streaming experience for movies and TV shows. With an intuitive interface, personalized recommendations, and offline viewing capabilities, FilmStream brings entertainment to your fingertips.
+**FilmStream** is a feature-rich Flutter application 🎬 designed to provide users with a seamless streaming experience for movies and TV shows. With an intuitive interface, personalized recommendations, and offline viewing capabilities, FilmStream brings entertainment directly to your fingertips 📲.
 
 ## ✨ Features
 
-- **Extensive Content Library**: Access thousands of movies and TV shows from various genres and time periods
-- **Personalized Experience**: User profiles with customized recommendations based on viewing history
-- **Smart Search**: Advanced search functionality with filters for genre, year, rating, and more
-- **Content Management**: Create and manage watchlists and mark favorites for quick access
-- **Offline Viewing**: Download content for offline viewing when internet access is limited
-- **User Ratings**: Rate and review content and view community ratings
-- **High-Quality Streaming**: Adaptive streaming quality based on network conditions
-- **Multi-device Sync**: Seamlessly switch between devices with synchronized viewing history
-- **Cross-platform**: Available on both iOS and Android devices
+- 🎞 **Extensive Content Library**: Access thousands of movies and TV shows across genres and eras
+- 👤 **Personalized Experience**: User profiles with customized recommendations based on viewing history
+- 🔍 **Smart Search**: Advanced search with filters for genre, year, rating, and more
+- 📋 **Content Management**: Create/manage watchlists and mark favorites for quick access
+- 📥 **Offline Viewing**: Download content to enjoy without internet
+- 🌟 **User Ratings**: Rate, review, and see community ratings
+- 📶 **High-Quality Streaming**: Adaptive streaming based on network conditions
+- 🔄 **Multi-device Sync**: Switch seamlessly across devices
+- 📱 **Cross-platform**: Available on iOS & Android!
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img alt="Screenshot 2025-04-29 at 2 15 40 AM" src="https://github.com/user-attachments/assets/35271354-7694-47db-a05e-334c61ee2d31"
- alt="Home Screen" width="300" height ="500"/>
-  <img  alt="Screenshot 2025-04-29 at 2 15 59 AM" src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
-alt="Movie Details" width="300" height ="500"/>
-  <img  alt="Screenshot 2025-04-29 at 3 01 36 AM" src="https://github.com/user-attachments/assets/534c3f28-d541-4cbe-874c-edea5059f563"
-src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
-alt="Movie Details" width="300" height ="500"/>
+  <img alt="Home Screen" src="https://github.com/user-attachments/assets/35271354-7694-47db-a05e-334c61ee2d31" width="300" height="500"/>
+  <img alt="Movie Details" src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4" width="300" height="500"/>
+  <img alt="More Screens" src="https://github.com/user-attachments/assets/534c3f28-d541-4cbe-874c-edea5059f563" width="300" height="500"/>
 </p>
-
-## Installation 📥
-  <img  alt="Screenshot 2025-04-29 at 2 17 28 AM" src="https://github.com/user-attachments/assets/78967953-4b66-4fea-97f8-af729021b198" 
-src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
-alt="Movie Details" width="400" height="500"/>
 
 ## 🛠️ Technologies Used
 
-- **Flutter**: UI framework for building natively compiled applications
-- **Dart**: Programming language optimized for building mobile, desktop, server, and web applications
-- **Provider**: State management solution
-- **Dio**: HTTP client for API communication
-- **Hive**: Lightweight and blazing fast key-value database
-- **ExoPlayer/AVPlayer**: Media players for Android and iOS
-- **Firebase**: Backend services including authentication and analytics
+- 🐦 **Flutter**: UI framework
+- 🎯 **Dart**: Programming language
+- 🛡️ **Provider**: State management
+- 🌐 **Dio**: HTTP client
+- 🗃️ **Hive**: Local storage
+- 🎵 **ExoPlayer/AVPlayer**: Media players
+- 🔥 **Firebase**: Backend services (authentication, analytics)
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 
-- Flutter SDK (version 3.0.0 or higher)
-- Dart SDK (version 3.0.0 or higher)
-- Android Studio / Xcode
-- A physical device or emulator/simulator
+- ✅ Flutter SDK (v3.0.0+)
+- ✅ Dart SDK (v3.0.0+)
+- ✅ Android Studio / Xcode
+- ✅ Physical device or emulator
 
-### Installation
+### 🧩 Installation
 
 1. **Clone the repository**
-
 ```bash
 git clone https://github.com/MeetSharma121/FilmStream.git
 cd FilmStream
 ```
 
 2. **Install dependencies**
-
 ```bash
 flutter pub get
 ```
 
-3. **Configure environment variables**
-
-Create a `.env` file in the root directory and add your API keys:
-
-```
+3. **Set up Environment Variables**
+Create a `.env` file and add:
+```env
 API_BASE_URL=your_api_base_url
 API_KEY=your_api_key
 ```
 
 4. **Run the app**
-
 ```bash
 flutter run
 ```
 
 ## 📱 Usage
 
-### User Registration and Login
+- **Registration/Login** 🔑  
+  Create an account with email, phone, or social login.
 
-New users can create an account using email, phone number, or social media accounts. Existing users can log in using their credentials.
+- **Browsing Content** 🧭  
+  Explore trending, recommended, and new releases.
 
-### Browsing Content
+- **Watching Movies/Shows** 🎬  
+  Tap on a movie/show → read details → hit **Play**!
 
-The home screen displays trending, recommended, and new releases. Users can browse content by categories, genres, or use the search function to find specific titles.
+- **Managing Watchlists** 📋  
+  Add to watchlist with the "+" button.
 
-### Watching Content
-
-Tap on a movie or TV show to view details, including synopsis, cast, ratings, and similar recommendations. Press the play button to start streaming.
-
-### Managing Watchlist
-
-Add content to your watchlist by tapping the "+" button on the content details page. Access your watchlist from the profile section.
-
-### Downloading for Offline Viewing
-
-On the content details page, tap the download icon to save the content for offline viewing. Access downloaded content from the "Downloads" section.
+- **Offline Viewing** 📥  
+  Tap download on the content page.
 
 ## 🧪 Running Tests
 
 ```bash
-# Run unit tests
+# Unit tests
 flutter test
 
-# Run integration tests
+# Integration tests
 flutter test integration_test
 ```
 
-## 📊 Project Structure
+## 📂 Project Structure
 
 ```
 lib/
-├── api/              # API services and endpoints
-├── constants/        # App constants and configuration
+├── api/              # API services
+├── constants/        # App constants
 ├── models/           # Data models
 ├── providers/        # State management
-├── screens/          # UI screens
+├── screens/          # UI Screens
 ├── utils/            # Utility functions
-├── widgets/          # Reusable widgets
+├── widgets/          # Reusable components
 └── main.dart         # App entry point
 ```
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! 🎉
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork the repository 🍴
+2. Create your branch (`git checkout -b feature/amazing-feature`) 🌟
+3. Commit your changes (`git commit -m 'Add some amazing feature'`) 📝
+4. Push to GitHub (`git push origin feature/amazing-feature`) 🚀
+5. Open a Pull Request 📬
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** 📜.  
+See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-Meet Sharma - [@MeetSharma121](https://github.com/MeetSharma121)
+- Meet Sharma - [@MeetSharma121](https://github.com/MeetSharma121)
 
 Project Link: [https://github.com/MeetSharma121/FilmStream](https://github.com/MeetSharma121/FilmStream)
 
 ## 🙏 Acknowledgements
 
-- [Flutter](https://flutter.dev)
-- [The Movie Database (TMDb)](https://www.themoviedb.org) (if used for movie data)
-- [Firebase](https://firebase.google.com)
-- [All Contributors](../../contributors)
+- [Flutter](https://flutter.dev) 🐦
+- [The Movie Database (TMDb)](https://www.themoviedb.org) 🎬
+- [Firebase](https://firebase.google.com) 🔥
+
+# Happy Coding 😊
