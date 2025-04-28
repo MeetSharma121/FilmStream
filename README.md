@@ -1,4 +1,6 @@
 # FilmStream 🎥
+## Preview in Website:
+https://cosmic-souffle-f7ec07.netlify.app/
 
 <p align="center">
   <img < alt="Screenshot 2025-04-29 at 2 54 28 AM" src="https://github.com/user-attachments/assets/4bfceb1a-ea32-415b-b14c-5d6635810a53"
