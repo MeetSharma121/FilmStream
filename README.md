@@ -1,7 +1,8 @@
 # FilmStream 🎥
 
 <p align="center">
-  <img src="https://via.placeholder.com/150?text=FilmStream" alt="FilmStream Logo" width="150" height="150"/>
+  <img < alt="Screenshot 2025-04-29 at 2 54 28 AM" src="https://github.com/user-attachments/assets/4bfceb1a-ea32-415b-b14c-5d6635810a53"
+alt="FilmStream Logo" width="350" height="150"/>
 </p>
 
 <p align="center">
@@ -30,10 +31,13 @@ FilmStream is a feature-rich Flutter application designed to provide users with 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x400?text=Home+Screen" alt="Home Screen" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=Movie+Details" alt="Movie Details" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=User+Profile" alt="User Profile" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=Search" alt="Search" width="200"/>
+  <img alt="Screenshot 2025-04-29 at 2 15 40 AM" src="https://github.com/user-attachments/assets/35271354-7694-47db-a05e-334c61ee2d31"
+ alt="Home Screen" width="200"/>
+  <img  alt="Screenshot 2025-04-29 at 2 15 59 AM" src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
+alt="Movie Details" width="200"/>
+  <img  alt="Screenshot 2025-04-29 at 2 17 28 AM" src="https://github.com/user-attachments/assets/78967953-4b66-4fea-97f8-af729021b198" 
+src="https://github.com/user-attachments/assets/4cd836d3-d4c6-452d-8132-3990a1d6f9f4"
+alt="Movie Details" width="200"/>
 </p>
 
 ## 🛠️ Technologies Used
